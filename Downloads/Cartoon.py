@@ -1,6 +1,5 @@
 # This code is made by Bikram
 # The turtle is a built-in module of the python but you can install it by:
-# pip install Pythonturtle
 import turtle
 
 
